@@ -33,14 +33,26 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
 ## Citation
 If you use or refer to this cultural familiarity annotation dataset, please cite the following paper.
 ```
-@misc{lkumjorn2025culturallygrounded,
-      title={Towards Geo-Culturally Grounded LLM Generations}, 
-      author={Piyawat Lertvittayakumjorn and David Kinney and Vinodkumar Prabhakaran and Donald Martin Jr. and Sunipa Dev},
-      year={2025},
-      eprint={2502.13497},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.13497}, 
+@inproceedings{lertvittayakumjorn-etal-2025-towards,
+    title = "Towards Geo-Culturally Grounded {LLM} Generations",
+    author = "Lertvittayakumjorn, Piyawat  and
+      Kinney, David  and
+      Prabhakaran, Vinodkumar  and
+      Jr., Donald Martin  and
+      Dev, Sunipa",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-short.26/",
+    doi = "10.18653/v1/2025.acl-short.26",
+    pages = "313--330",
+    ISBN = "979-8-89176-252-7"
 }
 ```
 
